@@ -4,4 +4,6 @@
 </a>
 </p>
 
+jrnl
+====
 This is the development page of my forked version of the main jrnl repo.
